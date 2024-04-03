@@ -1,0 +1,20 @@
+:original_name: ocr_03_0047.html
+
+.. _ocr_03_0047:
+
+API Overview
+============
+
+All OCR APIs are proprietary. By calling such APIs, you can use the OCR functions described in :ref:`Table 1 <ocr_03_0047__table1256915612355>`.
+
+.. _ocr_03_0047__table1256915612355:
+
+.. table:: **Table 1** API description
+
+   +------------------------------------+------------------------------------------------------------------------------------------------------------------+
+   | API                                | Description                                                                                                      |
+   +====================================+==================================================================================================================+
+   | :ref:`General Text <ocr_03_0042>`  | This API detects and extracts text from images and converts the text and coordinates into a structured format.   |
+   +------------------------------------+------------------------------------------------------------------------------------------------------------------+
+   | :ref:`General Table <ocr_03_0031>` | This API detects and extracts text from images of general tables and converts the text into a structured format. |
+   +------------------------------------+------------------------------------------------------------------------------------------------------------------+
