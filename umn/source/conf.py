@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'ocr-umn.tex',
-     u'Optical Character Recognition - User Guide',
+    u'Optical Character Recognition - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
 
