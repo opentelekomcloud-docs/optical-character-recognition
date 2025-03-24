@@ -5,4 +5,4 @@
 Endpoint
 ========
 
-An endpoint is the **request address** used to call an API. Different services have different endpoints for different regions. You can query all service endpoints at `Regions and Endpoints <https://docs.otc.t-systems.com/additional/endpoints.html>`__.
+An endpoint is the **request address** for calling an API. Endpoints vary depending on services and regions. For more information, see `Regions and Endpoints <https://docs.otc.t-systems.com/regions-and-endpoints/index.html>`__.
