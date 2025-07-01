@@ -7,6 +7,7 @@ API
 
 -  :ref:`General Text <ocr_03_0042>`
 -  :ref:`General Table <ocr_03_0031>`
+-  :ref:`Smart Document Recognizer <ocr_03_0161>`
 
 .. toctree::
    :maxdepth: 1
@@ -14,3 +15,4 @@ API
 
    general_text
    general_table
+   smart_document_recognizer
