@@ -21,7 +21,7 @@ OCR Capabilities
 
 -  General OCR
 
-   Detects and extracts text from images in any format, including tables and documents, and adapts to a range of different layouts and table formats.
+   Detects and extracts text from images in any format, including tables, documents, certificates, receipts, and forms, and adapts to a range of different layouts and table formats.
 
 Using OCR for the First Time
 ----------------------------
