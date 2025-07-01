@@ -7,7 +7,7 @@ Optical Character Recognition - User Guide
 
    what_is_ocr
    functions
-   constraints_and_limitations
+   notes_and_constraints
    related_services
    monitoring
    getting_started
