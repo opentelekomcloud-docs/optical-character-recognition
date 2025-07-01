@@ -38,6 +38,8 @@ otcdocs_doc_type = 'api-ref'
 otcdocs_service_category = 'big_data'
 otcdocs_service_title = 'Optical Character Recognition'
 otcdocs_service_type = 'ocr'
+otcdocs_service_environment = 'public'
+otcdocs_cloud_environment = 'eu_de'
 otcdocs_search_environment = 'hc_de'
 otcdocs_search_url = "https://opensearch.eco.tsi-dev.otc-service.com/"
 
